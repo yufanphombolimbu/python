@@ -1,0 +1,48 @@
+What is a git hub ?
+
+A git hub is an immense platform for code hosting.
+It support version controlling and collaboration. 
+
+It is managed by microsoft. 
+keeps track of the various changed made by programmers. 
+
+In this tutorial we were learning like a repository, comment, 
+branches, pull requests and more. And create our own project.
+
+essential components of an git hub are:-
+1. repository
+2. branches
+3. pullrequest
+4. comments 
+5. bug tracking
+6. collaboration 
+7. project management
+8. team management
+9. code Hosting
+10. track and assign tasks
+
+Github vs Git
+
+Git 
+It is based on command line utility tool.
+The desktop interface of Git is called Git GUI
+It is dedicated to to version controll and code sharing.
+It is installed on our local machine for version control and 
+interacting with online git service.
+Git hub
+
+it is managed through the web.
+it provides a desktop interface of github called github desktop gui.
+It is dedicated to centralize source code hosting.
+It is an online service that it is used to store code and push from 
+the computer running GIT.
+
+How to use a git hub ?
+create a git hub account
+github login 
+github repository 
+create a repository
+create a file
+create a branch
+
+installing git hub on different os like Windows, Mac and linux
