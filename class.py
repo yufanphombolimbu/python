@@ -17,8 +17,16 @@ class yufan:
 
     def function(self):
         print(f"My name is {self.a}")
+    
+    # adding another function or we called it method 
+
+    def limbu(self):
+        
+        self.b = 123
+        self.c = 234
+        return "The value of b and c is {}".format(self.b * self.c)
 
 # calling an object 
 a = yufan("Yufan LImbu")
 a.function()
-
+print(a.limbu())
